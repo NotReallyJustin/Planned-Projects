@@ -23,6 +23,8 @@ Never really got time to do it because of finals week, but:
 
 ## Meshnet Persistence
 * `From attacker side`: Most enterprise servers are not accessible to the public (you can't directly `$ssh` into them with a public IP). This makes things very annoying for an attacker. Maybe create a hacking/persistence tool that drops a meshnet into target device to allow for persistent access
+  * Maybe create own meshnet centralized server/endpoint for this because it'll be really obvious if a server is sending heartbeat messages to `tailscale.com` every 60 seconds like uhhhh what are we doing
+  * Unless your name is `Canvas LMS` in which case I guess we just ignore the most transparently malicious alerts out there and take a 2 week trip to Cancun. And then come back and go "um justin sorry we got ransomwared 2 weeks ago and all your work/data is getting sold on the dark web now. sorry i could have stopped it a week ago but I didn't expect `ShinyHunters` to actually call my dumb ahh bluff"
 * `From blue team side`: Lowkey curious how traffic/logs would look like if I just `ssh`'d in via `Tailscale` or `NordVPN meshnet` and then caused some chaos
 
 ## Create a small blog idk
