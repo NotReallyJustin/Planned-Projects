@@ -21,6 +21,10 @@ Never really got time to do it because of finals week, but:
 * This is such a dumpster fire that it warrants a writeup (I'm surprised I'm not hacked yet)
 * Buy a TPLink router off Amazon again since I wiped the firmware of the TPLink router I had at home with `openwrt`
 
+## Meshnet Persistence
+* `From attacker side`: Most enterprise servers are not accessible to the public (you can't directly `$ssh` into them with a public IP). This makes things very annoying for an attacker. Maybe create a hacking/persistence tool that drops a meshnet into target device to allow for persistent access
+* `From blue team side`: Lowkey curious how traffic/logs would look like if I just `ssh`'d in via `Tailscale` or `NordVPN meshnet` and then caused some chaos
+
 ## Create a small blog idk
 * Most of my notes/writeups I have right now are on Google Docs
 * Probably not a good idea; would like to migrate them all to a website
