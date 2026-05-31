@@ -31,7 +31,8 @@ Never really got time to do it because of finals week, but:
 
 ## Create iOS automated morning messages pointing to this website
 * <a href="https://istheinternetonfire.com/">https://istheinternetonfire.com/</a>
-* Really funny one from Jan Schaumann
+* Not really important, but would be funny if I woke up to this:
+* <image src="https://i.imgur.com/fY9cD6A.png">
 
 ## Create a small blog idk
 * Most of my notes/writeups I have right now are on Google Docs
