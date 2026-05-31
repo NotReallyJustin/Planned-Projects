@@ -16,21 +16,22 @@ Never really got time to do it because of finals week, but:
 * Create Sigma rules for `fragnesia` bc my friends have been freaking out about this (WIP)
 * Look at `fragnesia` or `CopyFail` variants out in the wild
 
-## Document how insecure TPLink routers are
-* Been putting it off for 1.5 years now, just got reminded because my friend bought a TPLink router off Amazon
-* This is such a dumpster fire that it warrants a writeup (I'm surprised I'm not hacked yet)
-* Buy a TPLink router off Amazon again since I wiped the firmware of the TPLink router I had at home with `openwrt`
-
 ## Meshnet Persistence
 * `From attacker side`: Most enterprise servers are not accessible to the public (you can't directly `$ssh` into them with a public IP). This makes things very annoying for an attacker. Maybe create a hacking/persistence tool that drops a meshnet into target device to allow for persistent access
   * Maybe create own meshnet centralized server/endpoint for this because it'll be really obvious if a server is sending heartbeat messages to `tailscale.com` every 60 seconds like uhhhh what are we doing
   * `<rant>` Unless your name is `Canvas LMS` in which case I guess we just ignore the most transparently malicious alerts out there and take a 2 week trip to Cancun. And then come back and go "um justin sorry we got ransomwared 2 weeks ago and all your work/data is getting sold on the dark web now. sorry i could have stopped it a week ago but I didn't expect `ShinyHunters` to actually call my dumb ahh bluff"
   * But seriously how do you see `ShinyHunters` leaving a ransomware letter on your system in 2026 and just go "they're nobodies let's just pretend we didn't see that" `</rant>`
-* `From blue team side`: Lowkey curious how traffic/logs would look like if I just `ssh`'d in via `Tailscale` or `NordVPN meshnet` and then caused some chaos
+* `From Threat Intel side`: Lowkey curious how traffic/logs would look like if I just `ssh`'d in via `Tailscale` or `NordVPN meshnet` and then caused some chaos
+
+## Document how insecure TPLink routers are
+* Been putting it off for 1.5 years now, just got reminded because my friend bought a TPLink router off Amazon
+* This is such a dumpster fire that it warrants a writeup (I'm surprised I'm not hacked yet)
+* Buy a TPLink router off Amazon again since I wiped the firmware of the TPLink router I had at home with `openwrt`
 
 ## Create a small blog idk
 * Most of my notes/writeups I have right now are on Google Docs
 * Probably not a good idea; would like to migrate them all to a website
+* (Sorry Rimmo I know you've been telling me to do this for the past like 2 years now, I'll get to it someday)
 
 <hr>
 
