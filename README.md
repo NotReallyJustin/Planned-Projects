@@ -29,6 +29,10 @@ Never really got time to do it because of finals week, but:
 * This is such a dumpster fire that it warrants a writeup (I'm surprised I'm not hacked yet)
 * Buy a TPLink router off Amazon again since I wiped the firmware of the TPLink router I had at home with `openwrt`
 
+## Create iOS automated morning messages pointing to this website
+* <a href="https://istheinternetonfire.com/">https://istheinternetonfire.com/</a>
+* Really funny one from Jan Schaumann
+
 ## Create a small blog idk
 * Most of my notes/writeups I have right now are on Google Docs
 * Probably not a good idea; would like to migrate them all to a website
