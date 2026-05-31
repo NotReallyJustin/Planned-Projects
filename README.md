@@ -4,6 +4,8 @@ It's a repo because I have no idea how to use Github Projects, and I needed some
 
 This used to be hosted on another platform. However, they paywalled me so I'm migrating to Github now.
 
+This is public since the intended audience of this are my friends. But if you're not one of them, that's fine too; this might be a bit more silly and whimiscal than what you usually read.
+
 ## Finish UAV Security Research
 * Add more UAV attack detections to `DVDsh`
 * Create accurate XML/JSON documentation for `MAVLink` (the official ones are borderline unusable; this one is purely out of spite)
