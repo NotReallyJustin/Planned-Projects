@@ -25,6 +25,8 @@ Never really got time to do it because of finals week, but:
 * Most of my notes/writeups I have right now are on Google Docs
 * Probably not a good idea; would like to migrate them all to a website
 
+<hr>
+
 # Very Long Term things I'd like to do someday
 
 ## Build a tool to decompile Go
