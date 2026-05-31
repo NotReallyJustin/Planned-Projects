@@ -1,4 +1,4 @@
-# Planned-Projects
+# Planned-Projects 🥳
 Justin's bucket list of ideas he'd like to play with when he has time. <br />
 It's a repo because I have no idea how to use Github Projects, and I needed somewhere accessible to put this. 
 
