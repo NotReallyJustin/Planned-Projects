@@ -14,6 +14,10 @@ This is public since the intended audience of this are my friends. But if you're
 * Create accurate XML/JSON documentation for `MAVLink` (the official ones are borderline unusable; this one is purely out of spite)
 * Find a cheap way to get into IEEE Milcom because I lowkey can't afford to pay $1,000 to present my own co-authored paper
 
+## Update Cyber Threat Intel and 49ers RSS Feed
+* It's been ~6 months since I last did that. Probably time for me to look at that list again
+* Recently noticed way too many Threat Intel sites on my feed are just AI word vomit now too. It's a good time to get rid of them
+
 ## Look into LPE Malware
 Never really got time to do it because of finals week, but:
 * Reverse engineer `CopyFail`
@@ -27,10 +31,6 @@ Never really got time to do it because of finals week, but:
   * Maybe create own meshnet centralized server/endpoint for this because it'll be really obvious if a server is sending heartbeat messages to `tailscale.com` every 60 seconds like uhhhh what are we doing
   * `<rant>` Unless your name is `Canvas LMS` in which case I guess we just ignore the most transparently malicious alerts out there and take a 2 week trip to Cancun. And then come back and go "um justin sorry we got ransomwared 2 weeks ago and all your work/data is getting sold on the dark web now. sorry i could have stopped it a week ago but I didn't expect `ShinyHunters` to actually call my dumb ahh bluff"
   * But seriously how do you see `ShinyHunters` leaving a ransomware letter on your system in 2026 and just go "they're nobodies let's just pretend we didn't see that" `</rant>`
-
-## Update Cyber Threat Intel and 49ers RSS Feed
-* It's been ~6 months since I last did that. Probably time for me to look at that list again
-* Recently noticed way too many Threat Intel sites on my feed are just AI word vomit now too. It's a good time to get rid of them
 
 ## Document how insecure TPLink routers are
 * Been putting it off for 1.5 years now, just got reminded because my friend bought a TPLink router off Amazon
