@@ -6,10 +6,11 @@ This used to be hosted on another platform. However, they paywalled me so I'm mi
 
 This is public since the intended audience of this are my friends. But if you're just a random person on the Internet, that's fine too; this might be a bit more silly and whimiscal than what you usually read.
 
-## Finish UAV Security Research
+## Polish UAV (Cyber) Attack Detection Research
+* Do (Drone) SOC Analyst stuff on a live drone on campus and detect/respond to launched attacks in real time 🤠
+  * PLEASE fill out the when2meet for June you know who you are, I know you're reading this
 * Add more UAV attack detections to `DVDsh`
 * Create accurate XML/JSON documentation for `MAVLink` (the official ones are borderline unusable; this one is purely out of spite)
-* Check if `Damn Vulnerable Drone` actually needs to expose all those UDP/TCP ports (I highly doubt that)
 * Find a cheap way to get into IEEE Milcom because I lowkey can't afford to pay $1,000 to present my own co-authored paper
 
 ## Look into LPE Malware
