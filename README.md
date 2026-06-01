@@ -9,6 +9,7 @@ This is public since the intended audience of this are my friends. But if you're
 ## Polish UAV (Cyber) Attack Detection Research
 * Do (Drone) SOC Analyst stuff on a live drone on campus and detect/respond to launched attacks in real time 🤠
   * PLEASE fill out the when2meet for June you know who you are, I know you're reading this
+  * I promise the compliance/data privacy stuff is done ☹️ Trust me I despised/hated that as much as you did, now let's do the actual cool blue team stuff
 * Add more UAV attack detections to `DVDsh`
 * Create accurate XML/JSON documentation for `MAVLink` (the official ones are borderline unusable; this one is purely out of spite)
 * Find a cheap way to get into IEEE Milcom because I lowkey can't afford to pay $1,000 to present my own co-authored paper
